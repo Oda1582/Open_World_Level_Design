@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Projet Open Word Level Design/Assets/Scenes/Tristant_E-2/Capture.JPG.meta
 guid: ccb3c4713daee6c4794bc1a7cac2d47d
+========
+guid: 2bb8ecf3b6b1389428daa82f807c2c04
+>>>>>>>> B-3_Eleis:Projet Open Word Level Design/Assets/Layers/1190.jpg.meta
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -93,6 +97,22 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<<< HEAD:Projet Open Word Level Design/Assets/Scenes/Tristant_E-2/Capture.JPG.meta
+========
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+>>>>>>>> B-3_Eleis:Projet Open Word Level Design/Assets/Layers/1190.jpg.meta
   spriteSheet:
     serializedVersion: 2
     sprites: []
